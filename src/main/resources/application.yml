@@ -12,4 +12,4 @@ spring:
     bus:
       enabled: true
   kafka:
-    bootstrap-servers: localhost:9092
+    bootstrap-servers: 35.220.136.178:9092
